@@ -1,0 +1,21 @@
+{
+  "cell_recipes": [
+    {
+      "name": "always_success",
+      "tx_hash": "0x5b11e126d4e27249d0e657d84e000091525478bd76831b3a86127b59e4120164",
+      "index": 0,
+      "occupied_capacity": 663800000000,
+      "data_hash": "0xb974b1e9d2a80f6d02a783eb8442de196a2f81d48c256c13a8f23d2d44211ee7",
+      "type_id": "0x011fc6647f9ac3378709eddd9d2da1ac69cc95d2b0624d8308af0b9bb6207e12"
+    }
+  ],
+  "dep_group_recipes": [
+    {
+      "name": "always_success_dep_group",
+      "tx_hash": "0xa497eeb4faf576a8e7b41e55221828c7c3b36ea57955a74e909d28ad1a5c0e2a",
+      "index": 0,
+      "data_hash": "0x2c0bef8235fe651f119d32656e30f13ea5fa3eef683ee7900e286cee1c8d9ea6",
+      "occupied_capacity": 10100000000
+    }
+  ]
+}
